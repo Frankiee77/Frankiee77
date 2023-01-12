@@ -8,11 +8,10 @@ int main(){
         getline (cin,nama);
         cout << "NIM\t: ";
         cin >> nim;
-        cout << "Prodi\t: ";
-        getline (cin,prodi);
         cout << "Fakultas: ";
         cin >> fakultas;
-    
+        cout << "Prodi\t: ";
+        getline (cin,prodi);
     
 return 0;
 }
