@@ -10,8 +10,5 @@ int main(){
         cin >> nim;
         cout << "Fakultas: ";
         cin >> fakultas;
-        cout << "Prodi\t: ";
-        getline (cin,prodi);
     
-return 0;
 }
