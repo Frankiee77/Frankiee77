@@ -1,4 +1,4 @@
-#include<iostream> //ini draft aplikasi pemesanan tiket online
+#include<iostream> 
 #include<string>
 using namespace std;
 
