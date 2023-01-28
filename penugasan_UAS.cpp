@@ -29,8 +29,7 @@ void pilih(){
         short kelasA[3] = {1, 2, 3};
         string kelasB[3] = {". First class", ". Bussiness class", ". Economy class"};
         string dari, ke;
-        short kelas;
-        unsigned short tgl1, tgl3;
+        short kelas, tgl1, tgl3;
         string tgl2;
         short penumpang1, penumpang2, penumpang3;
         system ("cls");
